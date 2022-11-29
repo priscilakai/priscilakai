@@ -5,8 +5,8 @@ PhD student in Computer Science at INF/UFG. Research interests include 3D Modeli
 ###
 <div align="center">
   <a href="https://github.com/priscilakai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilakai&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilakai&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=priscilakai&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilakai&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
