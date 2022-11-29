@@ -2,6 +2,7 @@
 
 PhD student in Computer Science at INF/UFG. Research interests include 3D Modeling and Computer Vision. Among the topics developed during the undergraduate and master’s degree, projects focused on agriculture stand out.
 
+###
 <div align="center">
   <a href="https://github.com/priscilakai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilakai&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
