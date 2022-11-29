@@ -17,6 +17,6 @@ PhD student in Computer Science at INF/UFG. Research interests include 3D Modeli
 <div> 
   <a href="http://lattes.cnpq.br/8210180026970752" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%230077B5?style=for-the-badge&logo=lattes&logoColor=white" target="_blank"></a> 
   <a href = "mailto:priscilamkai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div> 
-
+  
   ![Snake animation](https://github.com/priscilakai/priscilakai/blob/output/github-contribution-grid-snake.svg)
+</div> 
