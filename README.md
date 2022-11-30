@@ -3,8 +3,6 @@
 PhD student in Computer Science at INF/UFG. Research interests include 3D Modeling and Computer Vision. Among the topics developed during the undergraduate and master’s degree, projects focused on agriculture stand out.
 
 ## Education 📜
-- Degree in Computer Science, 2014, (State University of Mato Grosso do Sul)
-
 - Master's degree in Computer Science, 2018 (Federal University of Goias)
 
 - BSc in Computer Science, 2014 (Mato Grosso do Sul State University)
