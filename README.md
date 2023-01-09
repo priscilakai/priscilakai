@@ -1,6 +1,6 @@
 # Priscila Kai
 
-PhD student in Computer Science at INF/UFG. Research interests include 3D Modeling and Computer Vision. Among the topics developed during the undergraduate and master’s degree, projects focused on agriculture stand out.
+PhD candidate in Computer Science at INF/UFG. Research interests include 3D Modeling and Computer Vision. Among the topics developed during the undergraduate and master’s degree, projects focused on agriculture stand out.
 
 ## Education 📜
 - Master's degree in Computer Science, 2018 (Federal University of Goias)
